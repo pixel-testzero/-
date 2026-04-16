@@ -9,5 +9,3 @@
 .Убедиться, что код корректно учитывает трансформации, примененные к элементам управления (если таковые имеются).
 
 <img width="1273" height="1071" alt="image" src="https://github.com/user-attachments/assets/5326bafc-b292-4df4-a12f-1a23441ff771" />
-<img width="2560" height="1440" alt="Снимок экрана (19)" src="https://github.com/user-attachments/assets/7b706314-d7a6-46f7-9012-143cf3fcdfcd" />
-<img width="2560" height="1440" alt="Снимок экрана (20)" src="https://github.com/user-attachments/assets/decc95d5-04a1-4a31-992e-441a300b6249" />
